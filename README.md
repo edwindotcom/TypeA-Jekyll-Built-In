@@ -1,3 +1,3 @@
-# TypeA-Jekyll-Built-In
+# foo
 
 This is a markdown file that is built by a hidden Jekyll executable in GitHub's infra
